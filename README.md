@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cinnamor011
 - 👀 I’m interested in ... Game development, machine learning, software development
-- 🌱 I’m currently learning ... Computer science, C++
-- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... garnetvalley678@gmail.com
 
 <!---

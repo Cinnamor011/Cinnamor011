@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Cinnamor011
-- 👀 I’m interested in ... Game development, machine learning, software development
-- 📫 How to reach me ... garnetvalley678@gmail.com
-
-<!---
-Cinnamor011/Cinnamor011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Game development, machine learning, software development. If you like video games and love to work on them we should pair up!
+- 📫 How to reach me ... librelife8@proton.me
+- p.s. librewolf is the best browser

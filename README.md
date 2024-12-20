@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cinnamor011
-- 👀 I’m interested in ... Game development, machine learning, software development. If you like video games and love to work on them we should pair up!
+- 👀 I’m interested in ... Cyber security & software engineering
 - 📫 How to reach me ... librelife8@proton.me
 - p.s. librewolf is the best browser

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cinnamor011
-- 👀 I’m interested in ... Cyber security & software engineering
+- 👀 I’m interested in ... Cyber security && software engineering
 - 📫 How to reach me ... librelife8@proton.me
 - p.s. librewolf is the best browser

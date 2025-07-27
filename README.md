@@ -1,4 +1,14 @@
-## ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ Hi there I'm Cinnamor011 ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
+<div align="center">
+<h2>𓂃 ࣪˖ ִֶָ🐇་༘࿐ Hi there I'm Cinnamor011 ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</h2>
+
+Pursuing my Bachelor's of Computer Science with a concentration in Data Science at UTSA<br/>
+Obtained an Occupational Skill Award in Java Programming at NVC<br/>
+Associate of Science in Computer Science at NVC<br/>
+Currently learning about AI and LLMs<br/>
+
+I'm interested in game dev, low level systems, and cyber security! If you're willing to collaborate on something or for general discussion, let's talk!!
+
+</div>
 
 
 ## >⩊< Socials 

@@ -1,7 +1,7 @@
 <div align="center">
 <h2>𓂃 ࣪˖ ִֶָ🐇་༘࿐ Hi there I'm Cinnamor011 ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</h2>
 
-Pursuing my Bachelor's of Applied Technology in Cloud Computing at NVC<br/>
+Pursuing a Bachelor's of Applied Technology in Cloud Computing at NVC<br/>
 Obtained an Occupational Skill Award in Java Programming at NVC<br/>
 Associate of Science in Computer Science at NVC<br/>
 Currently learning about AI and LLMs<br/>

@@ -6,13 +6,9 @@ Obtained an Occupational Skill Award in Java Programming at NVC<br/>
 Associate of Science in Computer Science at NVC<br/>
 Currently learning about AI and LLMs<br/>
 
-Wanting to make the world a better place through tech
 
 </div>
 
-
-## >⩊< Socials 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/engagedhulahoop.bsky.social) 
 
 # ‧₊˚🖇️✩ ₊˚🎧⊹♡ Tech stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
